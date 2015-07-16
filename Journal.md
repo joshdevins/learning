@@ -6,6 +6,28 @@ inverse chronological order with the most recent reads at the top.
 ## 2015
 ### July
 
+#### Latent Dirichlet Allocation
+
+David M. Blei, Andrew Y. Ng, Michael A. Jordan, "Latent Dirichlet Allocation", Journal of Machine Learning Research 3 (2003), pp. 993-1022, 2003.
+
+#### Topic modeling with LDA: MLlib meets GraphX
+
+Joseph Bradley, "Topic modeling with LDA: MLlib meets GraphX", https://databricks.com/blog/2015/03/25/topic-modeling-with-lda-mllib-meets-graphx.html.
+
+Notes:
+
+> - How to evaluate performance of LDA by itself? Need always an application like classification or collaborative filtering?
+> - What is the task definition?
+> - How to pick number of topics/clusters/dimensions?
+> - Two hyperparameters, alpha and beta, approach to optimize.
+> - Inferred topics
+> - No topic names (human annotated)
+> - How to apply LDA to community topics in social networks/graphs? Have seen some references at SIGIR about this, need to look around.
+
+References:
+
+- David M. Blei, Andrew Y. Ng, Michael A. Jordan, "Latent Dirichlet Allocation", Journal of Machine Learning Research 3 (2003), pp. 993-1022, 2003.
+
 #### The Science of Managing Data Science
 
 Kate Matsudaira, "The Science of Managing Data Science", Communications of the ACM, vol. 58, no. 6, pp. 44-47.
@@ -38,7 +60,7 @@ Quotes:
 
 Alon Halevy, Peter Norvig, Fernando Pereira, "The Unreasonable Effectiveness of Data", IEEE Intelligent Systems, vol. 24, no. 2, pp. 8-12, March/April 2009, doi:10.1109/MIS.2009.36. [[pdf](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf)]
 
-References to follow:
+References:
 
  - E. Wigner, "The Unreasonable Effectiveness of Mathematics in the Natural Sciences," Comm. Pure and Applied Mathematics, vol. 13, no. 1, 1960 pp. 1–14.
  - L. Getoor and B. Taskar, Introduction to Statistical Relational Learning, MIT Press, 2007.
