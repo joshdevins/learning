@@ -1,8 +1,25 @@
 # Journal
 
-A list of readings, quotes, and references to follow up on.
+A list of readings, quotes, and references to follow up on. This list is in
+inverse chronological order with the most recent reads at the top.
 
 ## 2015
+### July
+
+#### The Science of Managing Data Science
+
+Kate Matsudaira, "The Science of Managing Data Science", Communications of the ACM, vol. 58, no. 6, pp. 44-47.
+
+Quotes:
+
+> - "How are you communicating results? ... We needed more than the measurement of results; we needed success criteria."
+> - "When we were creating a model, we would measure the precision and recall of an algorithm and communicate our results that way. However, not all executives speak in those terms. So we started changing the way we talked about experiment results. Instead of putting things in terms of algorithm evaluation metrics (like precision and recall), we started communicating results in terms of the customer experience and business metrics."
+> - "Another key when you are doing experiments to improve an algorithm, like tweaking search results, is to show the before and after. What changed with the experiment? Sometimes certain results would be improved, and others would decline, so it was equally important to understand and communicate both sides of the coin. With all the information we could make the best decision about how to proceed."
+> - "If you are working in data mining and machine learning research, most of the problems are difficult. The thing is, sometimes the reason why they are hard can be solved in other ways—like better/different data, changing requirements, or adding special cases. So saying a problem would be "really hard" wasn't a good enough reason not to try to solve it; and yet, it was consistently being used as the reason why things were not happening."
+> - "The key was learning to communicate why things were difficult."
+> - "Adding deadlines to research."
+> - "Adding agile demos."
+
 ### June
 
 #### A Little Queue Theory
