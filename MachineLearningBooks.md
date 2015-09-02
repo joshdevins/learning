@@ -16,7 +16,9 @@ The following is a list of machine learning books that are introductory, compreh
 - [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/). Christopher M. Bishop. Springer, 2006.
 > This leading textbook provides a comprehensive introduction to the fields of pattern recognition and machine learning. It is aimed at advanced undergraduates or first-year PhD students, as well as researchers and practitioners. No previous knowledge of pattern recognition or machine learning concepts is assumed. This is the first machine learning textbook to include a comprehensive coverage of recent developments such as probabilistic graphical models and deterministic inference methods, and to emphasize a modern Bayesian perspective.
 
-- [The Elements of Statistical Learning: Data Mining, Inference and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/). Trevor Hastie, Robert Tibshirani and Jerome - Friedman. Springer, 2009.
+- [The Elements of Statistical Learning: Data Mining, Inference and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/). Trevor Hastie, Robert Tibshirani and Jerome Friedman. Springer, 2009.
+
+- [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/). Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. Springer, 2014.
 
 - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/). Stuart Russel, Peter Norvig. Pearson, 2009.
 
