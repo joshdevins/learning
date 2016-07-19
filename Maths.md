@@ -4,6 +4,8 @@
 
 - [The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century](http://www.amazon.ca/dp/0805071342). David Salsburg. Holt Paperbacks, 2002.
 
+- [Fooled by Randomness](https://www.amazon.ca/Fooled-Randomness-Hidden-Markets-Incerto-ebook/dp/B001FA0W5W). Nassim Nicholas Taleb. Random House, 2008.
+
 - [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](http://www.amazon.ca/dp/039916524X). Barbara Oakley. Tarcher, 2014.
 
 - [Concepts of Modern Mathematics](http://www.amazon.ca/dp/0486284247). Ian Stewart. Dover Publications, 1995.
