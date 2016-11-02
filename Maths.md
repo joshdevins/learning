@@ -29,25 +29,21 @@
 
 ### Courses
 
-- Duke/Coursera, [Statistics Specialisation](https://www.coursera.org/specializations/statistics), 20 weeks
+- [Statistics Specialisation](https://www.coursera.org/specializations/statistics). Duke/Coursera. 20 weeks
 
-- University of Amsterdam/Coursera, [Basic Statistics](https://www.coursera.org/learn/basic-statistics), 8 weeks
+- [Basic Statistics](https://www.coursera.org/learn/basic-statistics). University of Amsterdam/Coursera. 8 weeks
 
-- Udacity, [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101), quite basic, 7 weeks
+- [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101). Udacity. Looks quite basic, poor reviews, 7 weeks
 
-- Stanford, [Probability and Statistics](http://online.stanford.edu/course/probability-and-statistics-self-paced), 4 months
+- Probability and Statistics. [Stanford](http://online.stanford.edu/course/probability-and-statistics-self-paced) or [CMU]((http://oli.cmu.edu/courses/free-open/statistics-course-details)). 4 months
 
-- Stanford, [Statistical Reasoning](http://online.stanford.edu/course/statistical-reasoning-self-paced), 4 months
+- Statistical Reasoning. [Stanford](http://online.stanford.edu/course/statistical-reasoning-self-paced) or [CMU](http://oli.cmu.edu/courses/free-open/statistical-reasoning-course-details/). 4 months
 
-- CMU, [Probability and Statistics](http://oli.cmu.edu/courses/free-open/statistics-course-details), 4 months (same source as Stanford above)
+- [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) (MIT 18.05). MIT. 14-weeks, no videos
 
-- CMU, [Statistical Reasoning](http://oli.cmu.edu/courses/free-open/statistical-reasoning-course-details/), 4 months (same course as Stanford above)
+- [Against All Odds: Inside Statistics](http://www.learner.org/resources/series65.html). 32 6- to 14-minute videos
 
-- MIT, [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) (MIT 18.05), 14-weeks, no videos
-
-- [Against All Odds: Inside Statistics](http://www.learner.org/resources/series65.html), 32 6- to 14-minute videos
-
-- Harvard, [Stats 110](http://projects.iq.harvard.edu/stat110), w/ accompanying text by prof, 4 months
+- [Stats 110](http://projects.iq.harvard.edu/stat110). Harvard. W/ accompanying text by prof, 4 months
 
 ### Texts
 
