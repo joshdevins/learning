@@ -25,6 +25,10 @@
 
 - [Coding the Matrix](http://codingthematrix.com). Philip N. Klein. Newtonian Press, 2013.
 
+## Probability
+
+- [A First Course In Probability](https://www.amazon.com/First-Course-Probability-9th/dp/032179477X). Sheldon Ross. Pearson, 9th ed, 2012.
+
 ## Statistics
 
 ### Courses
