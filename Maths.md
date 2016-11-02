@@ -26,6 +26,31 @@
 - [Coding the Matrix](http://codingthematrix.com). Philip N. Klein. Newtonian Press, 2013.
 
 ## Statistics
+
+### Courses
+
+- Duke/Coursera, [Statistics Specialisation](https://www.coursera.org/specializations/statistics), 20 weeks
+
+- University of Amsterdam/Coursera, [Basic Statistics](https://www.coursera.org/learn/basic-statistics), 8 weeks
+
+- Udacity, [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101), quite basic, 7 weeks
+
+- Stanford, [Probability and Statistics](http://online.stanford.edu/course/probability-and-statistics-self-paced), 4 months
+
+- Stanford, [Statistical Reasoning](http://online.stanford.edu/course/statistical-reasoning-self-paced), 4 months
+
+- CMU, [Probability and Statistics](http://oli.cmu.edu/courses/free-open/statistics-course-details), 4 months (same source as Stanford above)
+
+- CMU, [Statistical Reasoning](http://oli.cmu.edu/courses/free-open/statistical-reasoning-course-details/), 4 months (same course as Stanford above)
+
+- MIT, [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) (MIT 18.05), 14-weeks, no videos
+
+- [Against All Odds: Inside Statistics](http://www.learner.org/resources/series65.html), 32 6- to 14-minute videos
+
+- Harvard, [Stats 110](http://projects.iq.harvard.edu/stat110), w/ accompanying text by prof, 4 months
+
+### Texts
+
 - [Statistics in a Nutshell](http://shop.oreilly.com/product/0636920023074.do). Sarah Boslaugh. O'Reilly Media, 2012.
 
 - [Head First Statistics](http://shop.oreilly.com/product/9780596527587.do). Dawn Griffiths. O'Reilly Media, 2008.
