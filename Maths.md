@@ -35,7 +35,7 @@
 
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101). Udacity. Looks quite basic, poor reviews, 7 weeks
 
-- Probability and Statistics. [Stanford](http://online.stanford.edu/course/probability-and-statistics-self-paced) or [CMU]((http://oli.cmu.edu/courses/free-open/statistics-course-details)). 4 months
+- Probability and Statistics. [Stanford](http://online.stanford.edu/course/probability-and-statistics-self-paced) or [CMU](http://oli.cmu.edu/courses/free-open/statistics-course-details). 4 months
 
 - Statistical Reasoning. [Stanford](http://online.stanford.edu/course/statistical-reasoning-self-paced) or [CMU](http://oli.cmu.edu/courses/free-open/statistical-reasoning-course-details/). 4 months
 
