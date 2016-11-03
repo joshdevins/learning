@@ -16,6 +16,8 @@
 
 ### Courses
 
+- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking). Stanford/Coursera.
+
 - [MIT Mathematics Courses](https://ocw.mit.edu/courses/mathematics/). MIT. Undergraduate and graduate levels.
 
 ## Linear Algebra
