@@ -16,7 +16,7 @@
 
 ### Courses
 
-- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking). Stanford/Coursera.
+- Introduction to Mathematical Thinking. [Stanford](http://online.stanford.edu/courses/mathematical-thinking-winter-2014)/[Coursera](https://www.coursera.org/learn/mathematical-thinking).
 
 - [MIT Mathematics Courses](https://ocw.mit.edu/courses/mathematics/). MIT. Undergraduate and graduate levels.
 
