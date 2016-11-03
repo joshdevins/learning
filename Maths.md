@@ -14,9 +14,12 @@
 
 - [The Magic of Math: Solving for x and Figuring Out Why](http://www.amazon.ca/The-Magic-Math-Solving-Figuring/dp/0465054722). Arthur Benjamin. Basic Books, 2015.
 
+- [Introduction to Mathematical Thinking](https://www.amazon.de/Introduction-Mathematical-Thinking-Keith-Devlin/dp/0615653634). Kevin Devlin. 2012.
+
 ### Courses
 
 - Introduction to Mathematical Thinking. [Stanford](http://online.stanford.edu/courses/mathematical-thinking-winter-2014)/[Coursera](https://www.coursera.org/learn/mathematical-thinking).
+> Accompanying text is listed above under the same title as the course.
 
 - [MIT Mathematics Courses](https://ocw.mit.edu/courses/mathematics/). MIT. Undergraduate and graduate levels.
 
