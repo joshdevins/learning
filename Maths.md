@@ -2,6 +2,8 @@
 
 ## General
 
+### Reading
+
 - [The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century](http://www.amazon.ca/dp/0805071342). David Salsburg. Holt Paperbacks, 2002.
 
 - [Fooled by Randomness](https://www.amazon.ca/Fooled-Randomness-Hidden-Markets-Incerto-ebook/dp/B001FA0W5W). Nassim Nicholas Taleb. Random House, 2008.
@@ -12,7 +14,12 @@
 
 - [The Magic of Math: Solving for x and Figuring Out Why](http://www.amazon.ca/The-Magic-Math-Solving-Figuring/dp/0465054722). Arthur Benjamin. Basic Books, 2015.
 
+### Courses
+
+- [MIT Mathematics Courses](https://ocw.mit.edu/courses/mathematics/). MIT. Undergraduate and graduate levels.
+
 ## Linear Algebra
+
 - [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/). Gilbert Strang. Wellesley-Cambridge Press, 2009.
 > + Provides geometric intuitions
 > + Accompanies the current MIT course [18.06 Linear Algebra](http://web.mit.edu/18.06/www/index.shtml) (with video)
