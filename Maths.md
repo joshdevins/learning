@@ -48,6 +48,7 @@
 - [Statistics Specialisation](https://www.coursera.org/specializations/statistics). Duke/Coursera. 20 weeks
 
 - [Basic Statistics](https://www.coursera.org/learn/basic-statistics). University of Amsterdam/Coursera. 8 weeks
+> Enrolled. Looking for accompanying text. Most likely will but All of Statistics as a reference.
 
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101). Udacity. Looks quite basic, poor reviews, 7 weeks
 
