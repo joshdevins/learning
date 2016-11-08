@@ -45,10 +45,12 @@
 
 ### Courses
 
+- [Stats 110](http://stat110.net). Harvard. Highlt recommended, videos w/ accompanying text by prof, 4 months, [Quora notes](https://www.quora.com/topic/Harvard-Stat-110)
+
 - [Statistics Specialisation](https://www.coursera.org/specializations/statistics). Duke/Coursera. 20 weeks
 
 - [Basic Statistics](https://www.coursera.org/learn/basic-statistics). University of Amsterdam/Coursera. 8 weeks
-> Enrolled. Looking for accompanying text. Most likely will but All of Statistics as a reference.
+> Enrolled. Looking for accompanying text.
 
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101). Udacity. Looks quite basic, poor reviews, 7 weeks
 
@@ -59,8 +61,6 @@
 - [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) (MIT 18.05). MIT. 14-weeks, no videos
 
 - [Against All Odds: Inside Statistics](http://www.learner.org/resources/series65.html). 32 6- to 14-minute videos
-
-- [Stats 110](http://projects.iq.harvard.edu/stat110). Harvard. Videos w/ accompanying text by prof, 4 months, [Quora notes](https://www.quora.com/topic/Harvard-Stat-110)
 
 ### Texts
 
