@@ -60,7 +60,7 @@
 
 - [Against All Odds: Inside Statistics](http://www.learner.org/resources/series65.html). 32 6- to 14-minute videos
 
-- [Stats 110](http://projects.iq.harvard.edu/stat110). Harvard. W/ accompanying text by prof, 4 months
+- [Stats 110](http://projects.iq.harvard.edu/stat110). Harvard. Videos w/ accompanying text by prof, 4 months, [Quora notes](https://www.quora.com/topic/Harvard-Stat-110)
 
 ### Texts
 
