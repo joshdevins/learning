@@ -22,8 +22,6 @@ The following is a list of machine learning books that are introductory, compreh
 
 - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/). Stuart Russel, Peter Norvig. Pearson, 2009.
 
-- [Learning with Kernels](http://agbs.kyb.tuebingen.mpg.de/lwk/). Bernhard Schölkopf and Alex Smola. MIT Press, 2002.
-
 ## Introductory
 
 - [Thoughtful Machine Learning: A Test-Driven Approach](http://shop.oreilly.com/product/0636920032298.do). Matthew Kirk. O'Reilly Media, 2014.
