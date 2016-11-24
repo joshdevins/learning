@@ -26,7 +26,7 @@ The following is a list of machine learning books that are introductory, compreh
 
 - [Thoughtful Machine Learning: A Test-Driven Approach](http://shop.oreilly.com/product/0636920032298.do). Matthew Kirk. O'Reilly Media, 2014.
 
-- [Understanding Machine Learning: From Theory to Algorithms](http://www.amazon.ca/dp/1107057132).Shai Shalev-Shwartz, Shai Ben-David. Cambridge University Press, 2014.
+- [Understanding Machine Learning: From Theory to Algorithms](http://www.amazon.ca/dp/1107057132). Shai Shalev-Shwartz, Shai Ben-David. Cambridge University Press, 2014.
 
 - [Mining of Massive Datasets](http://www.mmds.org). Jure Leskovec, Anand Rajaraman and Jeffrey D. Ullman. Cambridge University Press, 2011.
 > In contrast to other references in this area, this book focuses on the implementation and practical use of machine learning algorithms that have been used to solve key problems in data mining and which can be used on even the largest datasets. It begins with a discussion of the map-reduce framework, an important tool for parallelizing algorithms. The authors explain the tricks of locality-sensitive hashing and stream processing algorithms for mining data that arrives too fast for exhaustive processing. The PageRank idea and related tricks for organizing the Web are covered next. Other chapters cover the problems of finding frequent itemsets and clustering. The final chapters cover two applications: recommendation systems and Web advertising, each vital in e-commerce. Written by two authorities in database and Web technologies, this book is essential reading for students and practitioners alike.
