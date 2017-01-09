@@ -31,6 +31,7 @@
 >  Algebraic manipulation, formal view, language is crystal clear.
 
 - [Coding the Matrix](http://codingthematrix.com). Philip N. Klein. Newtonian Press, 2013.
+> Course lectures, slides, etc. are available, but it's not a MOOC.
 
 ## Probability
 
