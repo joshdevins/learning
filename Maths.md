@@ -14,12 +14,7 @@
 
 - [The Magic of Math: Solving for x and Figuring Out Why](http://www.amazon.ca/The-Magic-Math-Solving-Figuring/dp/0465054722). Arthur Benjamin. Basic Books, 2015.
 
-- [Introduction to Mathematical Thinking](https://www.amazon.de/Introduction-Mathematical-Thinking-Keith-Devlin/dp/0615653634). Kevin Devlin. 2012.
-
 ### Courses
-
-- Introduction to Mathematical Thinking. [Stanford](http://online.stanford.edu/courses/mathematical-thinking-winter-2014)/[Coursera](https://www.coursera.org/learn/mathematical-thinking).
-> Accompanying text is listed above under the same title as the course.
 
 - [MIT Mathematics Courses](https://ocw.mit.edu/courses/mathematics/). MIT. Undergraduate and graduate levels.
 
@@ -39,6 +34,9 @@
 
 ## Probability
 
+- [Introduction to Probability](https://www.amazon.de/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573). Blitzstein, Hwang. Chapman & Hall, 2014.
+> See related course [Harvard Stats 110](http://projects.iq.harvard.edu/stat110/home)
+
 - [A First Course In Probability](https://www.amazon.com/First-Course-Probability-9th/dp/032179477X). Sheldon Ross. Pearson, 9th ed, 2012.
 
 ## Statistics
@@ -50,7 +48,8 @@
 - [Statistics Specialisation](https://www.coursera.org/specializations/statistics). Duke/Coursera. 20 weeks
 
 - [Basic Statistics](https://www.coursera.org/learn/basic-statistics). University of Amsterdam/Coursera. 8 weeks
-> Enrolled. Looking for accompanying text.
+> + Completed, winter 2016.
+> + Used the Statistics (Freedman) text and Statistics in a Nutshell (Boslaugh). Also used Introduction to Probability (Blitzstein) for some of the probability theory.
 
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101). Udacity. Looks quite basic, poor reviews, 7 weeks
 
@@ -64,9 +63,9 @@
 
 ### Texts
 
-- [Statistics in a Nutshell](http://shop.oreilly.com/product/0636920023074.do). Sarah Boslaugh. O'Reilly Media, 2012.
+- [Statistics, 4th Ed.](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728). Freedman, Pisani, Purves. Norton, 2007.
 
-- [Head First Statistics](http://shop.oreilly.com/product/9780596527587.do). Dawn Griffiths. O'Reilly Media, 2008.
+- [Statistics in a Nutshell](http://shop.oreilly.com/product/0636920023074.do). Sarah Boslaugh. O'Reilly Media, 2012.
 
 - [Think Stats: Exploratory Data Analysis](http://shop.oreilly.com/product/0636920034094.do). Allen B. Downey. O'Reilly Media, 2014.
 
