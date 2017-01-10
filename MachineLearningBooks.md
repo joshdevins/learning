@@ -30,3 +30,9 @@ The following is a list of machine learning books that are introductory, compreh
 
 - [Mining of Massive Datasets](http://www.mmds.org). Jure Leskovec, Anand Rajaraman and Jeffrey D. Ullman. Cambridge University Press, 2011.
 > In contrast to other references in this area, this book focuses on the implementation and practical use of machine learning algorithms that have been used to solve key problems in data mining and which can be used on even the largest datasets. It begins with a discussion of the map-reduce framework, an important tool for parallelizing algorithms. The authors explain the tricks of locality-sensitive hashing and stream processing algorithms for mining data that arrives too fast for exhaustive processing. The PageRank idea and related tricks for organizing the Web are covered next. Other chapters cover the problems of finding frequent itemsets and clustering. The final chapters cover two applications: recommendation systems and Web advertising, each vital in e-commerce. Written by two authorities in database and Web technologies, this book is essential reading for students and practitioners alike.
+
+- [Data Mining: Practical Machine Learning Tools and Techniques](http://www.cs.waikato.ac.nz/ml/weka/book.html). Witten, Frank, Hall. Morgan Kaufmann, 2016.
+
+## Deep Learning
+
+- [Deep Learning (Adaptive Computation and Machine Learning)](http://www.deeplearningbook.org). Goodfellow, Bengio, Courville. MIT Press, 2016.
