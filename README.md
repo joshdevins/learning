@@ -1,1 +1,1 @@
-My reading lists — past, present and future
+All things learning -- from reading and courses to experiments in notebooks.
