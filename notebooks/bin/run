@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# run the container from the containers git repo
+# this should be in the parent/source directory beside this repo
+PARENT_DIR=$(cd $(dirname $0)/../../..; pwd -P)
+
+$PARENT_DIR/containers/data-science/bin/start-notebook.sh
